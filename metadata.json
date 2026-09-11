@@ -1,0 +1,11 @@
+{
+  "name": "Remix AgriAi",
+  "description": "Smart AI-powered early crop disease \u0026 pest detection, weather risk forecasting, geospatial outbreak surveillance, and multilingual IPM advisories for farmers and agricultural extension workers.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
